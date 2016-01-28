@@ -3,7 +3,7 @@
 #  Simple Makefile for Roku Channel Development
 #
 
-APPNAME = hello_world
+APPNAME = hello-world
 IMPORTS = 
 
 APPSROOT = ..
